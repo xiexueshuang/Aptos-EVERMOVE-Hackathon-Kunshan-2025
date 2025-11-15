@@ -1,0 +1,10 @@
+[package]
+name = "ai_investment"
+version = "1.0.0"
+authors = ["AI Investment Team"]
+
+[addresses]
+ai_investment_account = "0x1234"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "mainnet" }
