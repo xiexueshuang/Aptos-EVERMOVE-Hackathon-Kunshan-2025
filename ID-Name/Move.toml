@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = ["AI Investment Team"]
 
 [addresses]
-ai_investment_account = "0x1234"
+ai_investment_account = "0x37ea709cac5db292cf5a2815efa3a9f756b32816f7dae8d8b92d4ee342a8d283"
 
 [dependencies]
 AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "mainnet" }
